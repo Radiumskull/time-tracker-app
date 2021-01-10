@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TimeTracker</string>
+    <string name="takes_user_to_add_task_page">Takes user to Add Task Page</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="takes_user_to_task_page">Takes user to task page</string>
+
+
+    <string name="todo">TODO</string>
+
+</resources>
